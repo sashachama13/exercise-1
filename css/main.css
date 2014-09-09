@@ -20,24 +20,45 @@ html {
   box-sizing: inherit;
 }
 
-body {
+.border {
+	color: #fff;
+}
+
+.body {
   margin: 0;
   padding: 0;
+  background-color: #DBD7D8;
+  
 }
 
 .img {
-  position:absolute;
-  width: 100%;
+    max-width:90%;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+}
+
+.holder {
+	position: relative;
+	padding: 0;
+	margin: 0;
 }
 
 .caption {
 	color: #fff;
-	position: relative;
+	position: absolute;
+	bottom: 0;
+	margin: 1em;
+	padding: 1em;
 }
 
 .table-heading {
 	color: #CBC6C6;
 	
+}
+
+.table {
+
 }
 
 .heading {
