@@ -5,7 +5,7 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
-  box-sizing: border-box;
+  
   margin: 0;
   padding: 0;
 
@@ -21,11 +21,9 @@ html {
 }
 
 
-.border {
-	color: #fff;
-}
 
-.bodyclass {
+
+.something {
   margin: 0;
   padding: 0;
   background-color: #DBD7D8;
