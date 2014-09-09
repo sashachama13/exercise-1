@@ -32,10 +32,9 @@ html {
 }
 
 .img {
-    max-width:90%;
-    position: relative;
-    display: block;
-    margin: 0 auto;
+    width:100%;
+  
+  
 }
 
 .holder {
